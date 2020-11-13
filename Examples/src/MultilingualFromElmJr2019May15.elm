@@ -1,7 +1,7 @@
 module MultilingualFromElmJr2019May15 exposing(words)
 import GraphicSVG exposing(..)
 
-words = List.take 5 [
+words = [
       let
         myWord = "grandfather"
         myCode = 549
